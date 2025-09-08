@@ -1,0 +1,6 @@
+@MTLSCertValidation_HostAddress = http://localhost:5099
+
+GET {{MTLSCertValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
